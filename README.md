@@ -1,0 +1,2 @@
+# HolaStudioLocalEdition
+HolaStudio Local Edition

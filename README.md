@@ -1,6 +1,6 @@
 ### HolaStudio(Alpha) 本地版本
 
-#### [发布说明](https://github.com/Holaverse/HolaStudioLocalEdition/ReleaseNotes.md)
+#### [发布说明](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/ReleaseNotes.md)
 
 #### 最新安装包下载地址
 
@@ -20,4 +20,4 @@
 
 ---
 
-###License [MIT](https://github.com/Holaverse/HolaStudioLocalEdition/LICENSE)
+###License [MIT](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/LICENSE)

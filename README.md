@@ -1,5 +1,7 @@
 ### HolaStudio(Alpha) 本地版本
 
+### [安装说明](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/INSTALL.md)
+
 #### [发布说明](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/ReleaseNotes.md)
 
 #### 最新安装包下载地址

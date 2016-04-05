@@ -7,13 +7,13 @@
   ![exe](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B78.PNG)
 
 + 2、双击安装  
-双击安装包开始安装后会出现一个安装动画：
+双击安装包开始安装后会出现一个安装动画:  
 ![install](http://7xsec6.com1.z0.glb.clouddn.com/install.png)
 
 + 3、等待安装完毕后会在桌面创建一个快捷方式：
 ![shortcut](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B7.PNG)
 
-+ 4、双击即可启动HolaStudio
++ 4、双击即可启动HolaStudio  
 ![demo](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B72.PNG), ``简洁大方的界面设计``
 
 + 5、数据路径  
@@ -27,7 +27,7 @@
 ![dir](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B75.PNG)
 
 **游戏路径生成规则：**  
-每个游戏都在对应的组织下，文件路径按照`组织ID`以及`游戏Key`来生成：
+每个游戏都在对应的组织下，文件路径按照`组织ID`以及`游戏Key`来生成：  
 ![dir](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B76.PNG)
 
 *需要协作的用户可以把该目录建成一个`git`仓库，达到协作的目的。*

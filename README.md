@@ -4,6 +4,10 @@
 
 #### [发布说明](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/ReleaseNotes.md)
 
+请用版本控制工具(如git/svn)管理本地游戏数据！
+请用版本控制工具(如git/svn)管理本地游戏数据！
+请用版本控制工具(如git/svn)管理本地游戏数据！
+
 #### 最新安装包下载地址
 
 [Mac OSX](http://pan.baidu.com/s/1pKOBVOR)  

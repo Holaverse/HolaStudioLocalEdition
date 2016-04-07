@@ -8,9 +8,9 @@
 
 #### 最新安装包下载地址
 
-[Mac OSX](http://pan.baidu.com/s/1pKOBVOR)  
-[Windows 32bit](http://pan.baidu.com/s/1jI4J8Qa)  
-[Windows 64bit](http://pan.baidu.com/s/1c12DGis)  
+[Mac OSX](http://pan.baidu.com/s/1gfKyNyr)  
+[Windows 32bit](http://pan.baidu.com/s/1slII6Ih)  
+[Windows 64bit](http://pan.baidu.com/s/1dFhToYl)  
 [Linux 32bit](http://pan.baidu.com/s/1kVeZjmR)  
 [Linux 64bit](http://pan.baidu.com/s/1jIEneUM)
 

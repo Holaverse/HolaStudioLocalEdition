@@ -11,7 +11,7 @@
 ![install](http://7xsec6.com1.z0.glb.clouddn.com/install.png)
 
 + 3、等待安装完毕后会在桌面创建一个快捷方式：
-![shortcut](http://s.developers.holaverse.com/prod-games-developers/cn/docs/146002426550555.png)
+![shortcut](http://7xsec6.com1.z0.glb.clouddn.com/146002426550555.png)
 
 + 4、双击即可启动HolaStudio  
 ![demo](http://7xsec6.com1.z0.glb.clouddn.com/%E6%8D%95%E8%8E%B72.PNG), ``简洁大方的界面设计``
@@ -40,7 +40,7 @@
 ![mac-install](http://7xsec6.com1.z0.glb.clouddn.com/mdg.png)
 
 + 2、安装  
-![mac_install](http://s.developers.holaverse.com/prod-games-developers/cn/docs/146002682487912.png)
+![mac_install](http://7xsec6.com1.z0.glb.clouddn.com/146002682487912.png)
 
 + 3、启动HolaStudio  
 ![startup](http://7xsec6.com1.z0.glb.clouddn.com/start.png)

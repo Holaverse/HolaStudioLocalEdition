@@ -5,12 +5,7 @@
 #### [发布说明](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/ReleaseNotes.md)
 
 #### 最新安装包下载地址
-
-[Mac OSX](http://pan.baidu.com/s/1pKOBVOR)  
-[Windows 32bit](http://pan.baidu.com/s/1jI4J8Qa)  
-[Windows 64bit](http://pan.baidu.com/s/1c12DGis)  
-[Linux 32bit](http://pan.baidu.com/s/1eR5r25W)  
-[Linux 64bit](http://pan.baidu.com/s/1slcKXVB)
+[Mirrors](http://cdn.studio.holaverse.cn/dist/)
 
 **本地版本开启为期一周的测试阶段，欢迎各位下载试用：）**<br>
 **如果您在使用的过程中出现任何问题，有任何意见或者建议，您可以通过以下方式与我们取得联系：**  

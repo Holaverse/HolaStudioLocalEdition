@@ -14,6 +14,11 @@
 - HolaStudio[官方论坛](http://support.holaverse.cn)
 - Github提issue
 
+#### 调试  
+- windows: 按下`F6`  
+- linux/osx: 按下`F12`  
+
+
 #### 注意事项
 * 请用版本控制工具(如git/svn)管理本地游戏数据！
 * 请用版本控制工具(如git/svn)管理本地游戏数据！

@@ -20,6 +20,7 @@
 
 
 #### 注意事项
+* 请修改默认数据路径以免重复安装导致数据被覆盖！  
 * 请用版本控制工具(如git/svn)管理本地游戏数据！
 * 请用版本控制工具(如git/svn)管理本地游戏数据！
 * 请用版本控制工具(如git/svn)管理本地游戏数据！
@@ -28,4 +29,4 @@
 
 ---
 
-###License [MIT](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/LICENSE)
+####License [MIT](https://github.com/Holaverse/HolaStudioLocalEdition/blob/master/LICENSE)

@@ -18,6 +18,9 @@
 - windows: 按下`F6`  
 - linux/osx: 按下`F12`  
 
+#### 已知的问题点  
+- alert or confirm dialogs in iframes. [issue](https://github.com/electron/electron/issues/2644)  
+
 
 #### 注意事项
 * 请修改默认数据路径以免重复安装导致数据被覆盖！  

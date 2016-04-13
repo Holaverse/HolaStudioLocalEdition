@@ -19,7 +19,7 @@
 - linux/osx: 按下`F12`  
 
 #### 已知的问题点  
-- alert or confirm dialogs in iframes. [issue](https://github.com/electron/electron/issues/2644)  
+- No alert or confirm dialogs in iframes. [issue](https://github.com/electron/electron/issues/2644)  
 
 
 #### 注意事项

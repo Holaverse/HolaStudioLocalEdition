@@ -19,7 +19,9 @@
 - linux/osx: 按下`F12`  
 
 #### 已知的问题点  
-- No alert or confirm dialogs in iframes. [issue](https://github.com/electron/electron/issues/2644)  
+- No alert or confirm dialogs in iframes. [issue](https://github.com/electron/electron/issues/2644)   
+- 每次更新完毕，必须重启服务器  
+
 
 
 #### 注意事项
